@@ -18,15 +18,21 @@ This project is a web application that showcases a catalog of animals, built wit
 - **Express** — web framework for Node.js, handling API routes
 - **Mysql** — SQL database for data persistence
 
-## Установка проекту
+## 🚀 How to Run the Project
 
-Для того, щоб запустити цей проект локально, виконайте наступні кроки:
+### Prerequisites
 
-1. **Клонування репозиторію:**
-   Склонуйте репозиторій проекту з GitHub за допомогою наступної команди:
+Before running the project, ensure you have the following installed:
+
+- **Node.js**: [Download and install Node.js](https://nodejs.org/)
+- **MongoDB**: Ensure MongoDB is running on your machine or a remote server.
+
+### Installation
+
+1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
+   git clone https://github.com/your-username/your-repo-name.git
    
 
 
