@@ -1,0 +1,27 @@
+.card__info {
+    padding: 0 30px;
+    background-color: white;
+}
+
+.ant-card {
+    overflow: hidden;
+    border: 1px solid gray;
+}
+
+.card__title {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.card__text {
+    font-weight: 400;
+    text-align: center;
+    font-size: 18px;
+}
+
+.card-img {
+    width: 420px;
+    height: 300px;
+}

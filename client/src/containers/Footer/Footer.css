@@ -1,0 +1,70 @@
+.footer {
+    height: 200px;
+    width: 100%;
+    background-color: black;
+}
+
+.footer__container {
+    width: 1600px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+.footer__main {
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid white;
+}
+
+.footer__stuff {
+    width: 290px;
+    margin-right: 425px;
+    color: white;
+}
+
+.footer__title {
+    font-weight: 700;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.footer__text {
+    font-weight: 400;
+}
+
+.footer__logo {
+    margin-right: 600px;
+}
+
+.footer__logo img {
+    width: 150px;
+    height: 150px;
+}
+
+.footer__side {
+    height: 100%;
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.anticon {
+    font-size: 30px;
+}
+
+.anticon-instagram {
+    color: rgb(146, 7, 104);
+}
+
+.anticon-twitter {
+    color: #03A9F4;
+}
+
+.anticon-youtube {
+    color: #FF0000;
+}
+
+.anticon-linkedin {
+    color: #007AB9;
+}
+
