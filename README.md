@@ -64,7 +64,9 @@ Before running the project, ensure you have the following installed:
 
 ![image](https://github.com/user-attachments/assets/65c606d4-5544-4a6e-99e8-f8a04b295b68)
 
-![image](https://github.com/user-attachments/assets/8a56794f-9f34-480a-b379-1e36a6d8620d)
+### Paginaion after press "View more":
+
+![image](https://github.com/user-attachments/assets/f76cd67e-f3f2-4362-a7dc-bf818335337b)
 
 ![image](https://github.com/user-attachments/assets/ea2d9948-fcd7-4912-8b6c-4b37b40ebc69)
 
