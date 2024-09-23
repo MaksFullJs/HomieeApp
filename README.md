@@ -60,6 +60,8 @@ Before running the project, ensure you have the following installed:
 
 ## 🖼️ Screenshots:
 
+## Home Page:
+
 ![image](https://github.com/user-attachments/assets/a2caa448-424e-4c4d-be8d-8651f6443aeb)
 
 ![image](https://github.com/user-attachments/assets/65c606d4-5544-4a6e-99e8-f8a04b295b68)
@@ -69,6 +71,25 @@ Before running the project, ensure you have the following installed:
 ![image](https://github.com/user-attachments/assets/f76cd67e-f3f2-4362-a7dc-bf818335337b)
 
 ![image](https://github.com/user-attachments/assets/ea2d9948-fcd7-4912-8b6c-4b37b40ebc69)
+
+## Catalog Page:
+
+![image](https://github.com/user-attachments/assets/58a8ccaf-330a-424e-9e26-672377bbcd21)
+
+## Animal Personal Page:
+
+![image](https://github.com/user-attachments/assets/fb540851-0a44-479c-82ba-d154b54fa1c1)
+
+## Card Page(after pressing "Add to cart"(redux use):
+
+![image](https://github.com/user-attachments/assets/81e8bd0f-c1e8-4dcf-8a14-00a13b6c5f45)
+
+## 🧪 Thank u))
+
+
+
+
+
 
 
 
