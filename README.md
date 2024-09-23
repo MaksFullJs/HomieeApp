@@ -25,7 +25,6 @@ This project is a web application that showcases a catalog of animals, built wit
 Before running the project, ensure you have the following installed:
 
 - **Node.js**: [Download and install Node.js](https://nodejs.org/)
-- **MongoDB**: Ensure MongoDB is running on your machine or a remote server.
 
 ### Installation
 
@@ -33,6 +32,34 @@ Before running the project, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+   ```
+   
+2. **Install the backend dependencies:**
+   
+    ```bash
+   cd server
+   npm install
+   ```
+    
+3. **Install the frontend dependencies:**
+   
+    ```bash
+   cd client
+   npm install
+   ```
+
+4. **Start the backend server:**
+
+   ```bash
+   node server.js
+   ```
+
+5. **Start the frontend server:**
+
+   ```bash
+   npm start
+   ```
+   
    
 
 
