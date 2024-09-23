@@ -4,8 +4,6 @@
 
 This project is a web application that showcases a catalog of animals, built with a React frontend and an Express backend. You can browse through the animals, apply filters, and search for specific items.
 
-## 🚀 How to Run the Project
-
 ## 🛠️ Technologies Used
 
 ### Frontend
@@ -19,6 +17,17 @@ This project is a web application that showcases a catalog of animals, built wit
 - **Node.js** — JavaScript runtime for server-side development
 - **Express** — web framework for Node.js, handling API routes
 - **Mysql** — SQL database for data persistence
+
+## Установка проекту
+
+Для того, щоб запустити цей проект локально, виконайте наступні кроки:
+
+1. **Клонування репозиторію:**
+   Склонуйте репозиторій проекту з GitHub за допомогою наступної команди:
+
+   ```bash
+   git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
+   
 
 
 
